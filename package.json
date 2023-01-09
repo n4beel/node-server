@@ -17,7 +17,7 @@
     "@google-cloud/firestore": "^2.3.0",
     "axios": "^0.19.0",
     "cheerio": "^1.0.0-rc.3",
-    "firebase-admin": "^8.6.0",
+    "firebase-admin": "^11.4.1",
     "node-fetch": "^2.6.0",
     "request": "^2.88.0"
   }
